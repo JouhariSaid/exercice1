@@ -65,7 +65,7 @@ table tr th {
 }
 
 #form div div input,
-#form div div option {
+#form div div select {
     margin-top: 5px;
     width: 300px;
     height: 30px;
@@ -73,11 +73,6 @@ table tr th {
     font-size: 1.1rem;
     border-radius: 5px;
     border: 1px solid gray;
-}
-
-#form div div select {
-    height: 30px;
-    margin-top: 5px;
 }
 
 #form .btn {
